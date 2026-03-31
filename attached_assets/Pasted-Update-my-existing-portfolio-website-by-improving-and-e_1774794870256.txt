@@ -1,0 +1,93 @@
+Update my existing portfolio website by improving and expanding the Projects section. Do NOT redesign the entire website—only enhance the Projects section while keeping the current UI style (dark futuristic theme).
+
+💼 PROJECT SECTION UPDATE:
+
+👉 Ensure ALL projects are displayed in a responsive grid layout (no single-project issue)
+👉 Maintain same design (glassmorphism + neon effects)
+
+📌 ADD / UPDATE THE FOLLOWING PROJECTS WITH WORKING LINKS:
+
+1. NyayaBot (AI Legal Assistant)
+
+* Description: An AI-powered legal assistant chatbot that helps users with legal queries using NLP.
+* Features:
+
+  * Real-time chatbot interaction
+  * Legal query assistance
+  * Document-related guidance
+* Tech Stack: AI/ML, NLP, Web Technologies
+* GitHub: https://github.com/kartik3174/NyayaBot
+
+2. W.A.T.C.H (Smart Monitoring System)
+
+* Description: A smart AI-based monitoring system designed to track and analyze real-time data efficiently.
+* Features:
+
+  * Real-time tracking system
+  * Intelligent data processing
+  * Dashboard visualization
+* Tech Stack: AI, IoT, Web Technologies
+* GitHub: https://github.com/kartik3174/W.A.T.C.H-AI-NEW
+
+3. EcoSort AI (Waste Management System)
+
+* Description: AI-based waste classification system that helps in sorting and managing waste efficiently.
+* Features:
+
+  * Image-based waste detection
+  * Smart classification system
+  * Environment-focused solution
+* Tech Stack: AI/ML, Computer Vision
+* GitHub: https://github.com/kartik3174/EcoSort-AI-3.0
+
+4. HealthSecure (Healthcare System)
+
+* Description: A healthcare-focused web application for managing and securing health-related data.
+* Features:
+
+  * Secure data handling
+  * User-friendly interface
+  * Health monitoring support
+* Tech Stack: Web Development, Backend Integration
+* GitHub: https://github.com/kartik3174/HealthSecure
+
+👉 IMPORTANT REQUIREMENTS:
+
+* Show ALL 4 projects properly (no missing cards)
+* Each project card must include:
+
+  * Title
+  * Description
+  * Tech stack badges
+  * Buttons:
+
+    * "View Code" → opens GitHub repo
+    * "Live Demo" → (optional if available)
+
+🎯 ADD FILTER SYSTEM:
+
+* All
+* AI/ML
+* IoT
+* Web
+* Cloud
+
+⚡ FUNCTIONAL FIXES:
+
+* Fix any broken buttons
+* Ensure GitHub links open correctly
+* Add hover effects and animations
+* Smooth filtering transitions
+
+🎨 DESIGN:
+
+* Keep dark futuristic UI
+* Neon blue/cyan highlights
+* Glow hover effect on project cards
+
+⚠️ FINAL:
+
+* Do not remove existing UI
+* Do not break layout
+* Ensure projects are clearly visible and properly categorized
+* Make it recruiter-friendly and visually appealing

@@ -1,0 +1,117 @@
+Enhance my existing portfolio website by adding advanced sections and improving UI/UX. Do NOT redesign the entire website—only extend and upgrade it while maintaining the current dark futuristic theme (neon blue/cyan, glassmorphism).
+
+🔥 1. FEATURED PROJECT SECTION (TOP PRIORITY)
+
+* Add a new "Featured Project" section at the top (below Hero)
+* Highlight ONE major project (W.A.T.C.H or NyayaBot)
+* Include:
+
+  * Project title
+  * Problem statement
+  * My solution
+  * Key features
+  * Tech stack
+  * GitHub button (working)
+* Add large visual card layout with image/preview
+* Add smooth animations
+
+🎯 2. SKILLS VISUALIZATION
+
+* Convert skills section into a visual UI
+* Use:
+
+  * Progress bars OR
+  * Icon-based grid
+* Group skills into:
+
+  * AI/ML
+  * Web Development
+  * Cloud
+  * Tools
+* Add hover effects and animations
+
+📄 3. RESUME SECTION
+
+* Add "Download Resume" button (working)
+* Optional: add preview modal
+* Place it in Hero section and Navbar
+
+📊 4. EXPERIENCE / LEARNING TIMELINE
+
+* Add a vertical timeline section
+* Include:
+
+  * 2023 – Started B.Tech AI & DS
+  * Hackathons participation
+  * Project milestones
+* Use animated timeline UI
+
+📜 5. CERTIFICATIONS SECTION (UPGRADE)
+
+* Display certificates as cards
+* Include:
+
+  * Certificate title
+  * Issuer (AWS, etc.)
+  * Button: "View Certificate"
+* Add clean card UI with hover effects
+
+💬 6. TESTIMONIAL / FEEDBACK SECTION (OPTIONAL)
+
+* Add simple testimonial cards
+* Include:
+
+  * Name
+  * Role (mentor / teammate)
+  * Short feedback
+* Use clean modern card UI
+
+🤖 7. AI CHATBOT INTEGRATION (UNIQUE FEATURE)
+
+* Add chatbot UI in bottom corner
+* Chatbot should:
+
+  * Answer about my projects
+  * Explain my skills
+  * Guide users through portfolio
+* Use simple predefined responses or AI integration
+
+📈 8. GITHUB STATS SECTION
+
+* Add GitHub stats card
+* Show:
+
+  * Contributions
+  * Repositories
+  * Activity graph (if possible)
+
+⚡ 9. FUNCTIONAL IMPROVEMENTS
+
+* Ensure ALL buttons work:
+
+  * View Projects → scroll
+  * Contact → scroll
+  * Resume → download
+  * GitHub → open repos
+* Smooth scrolling navigation
+* Add hover animations
+
+🎨 10. UI ENHANCEMENTS
+
+* Add subtle animations (Framer Motion)
+* Add loading animation
+* Improve spacing and alignment
+* Maintain dark futuristic theme
+
+🌐 11. FINAL TOUCHES
+
+* Add favicon
+* Optimize for mobile responsiveness
+* Add SEO title and description
+
+⚠️ IMPORTANT:
+
+* Do NOT break existing design
+* Do NOT remove existing projects
+* Ensure everything is functional
+* Keep it professional and recruiter-ready

@@ -1,0 +1,137 @@
+Create a premium, futuristic, fully responsive personal portfolio website for a Computer Science Engineering student specializing in Artificial Intelligence, Machine Learning, Cloud Computing, and Full Stack Development.
+
+👤 PERSONAL PROFILE:
+I am a highly motivated Computer Science student passionate about AI/ML, cloud technologies, and building real-world impactful applications. I enjoy solving complex problems, participating in hackathons, and continuously learning emerging technologies.
+
+🎯 SKILLS:
+
+Programming:
+
+* Python
+* JavaScript
+
+AI/ML:
+
+* Machine Learning
+* Natural Language Processing (NLP)
+* Deep Learning (Basics)
+
+Web Development:
+
+* HTML, CSS, JavaScript
+* React.js
+* Vite
+
+Cloud & DevOps:
+
+* AWS (EC2, S3 basics)
+* Cloud Computing fundamentals
+
+Tools & Technologies:
+
+* Git & GitHub
+* VS Code
+* Postman
+* Figma
+
+Other Skills:
+
+* API Integration
+* Problem Solving
+* Debugging
+
+💼 PROJECTS (SHOW ALL PROJECTS WITH PROPER UI CARDS):
+
+1. NyayaBot (AI Legal Assistant)
+
+* AI chatbot for legal queries using NLP
+* Provides document verification and legal assistance
+* Built with modern web technologies and AI concepts
+
+2. Speech-to-Text System
+
+* Converts voice input into text
+* Uses APIs for real-time processing
+
+3. Cloud-Based Application
+
+* Deployed using AWS services
+* Demonstrates scalability and cloud concepts
+
+👉 Display projects in grid layout with:
+
+* Image/preview
+* Title
+* Description
+* Tech stack badges
+* Buttons: Live Demo | GitHub (working)
+
+👉 Add project filtering:
+All | AI/ML | Web | Cloud
+
+🏆 ACHIEVEMENTS:
+
+* Won 2nd Prize in Intercollege Hackathon "Solveathon 4.0" – Runner Up (2025)
+* Won 2nd Prize in Intercollege Hackathon "Innovathon 4.0" – Runner Up (2026)
+
+📜 CERTIFICATIONS:
+
+* AWS Academy (Cloud Training)
+* Any AI/ML or workshop certifications (display as cards)
+
+🎤 PARTICIPATIONS:
+
+* Participated in multiple hackathons and technical events
+* Active involvement in AI/ML and coding activities
+
+🎓 EDUCATION:
+
+* B.Tech in AI & DS (Artificial Intelligence & Data Science)
+* Duration: 2023 – Present
+
+📬 CONTACT:
+
+* Email: [kartiksinghrajpoot2000@gmail.com](mailto:kartiksinghrajpoot2000@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/kartik-singh-p-2a2509345
+* GitHub: https://github.com/kartik3174
+
+👉 Make all links clickable with icons
+
+🎨 DESIGN STYLE:
+
+* Dark futuristic theme (like reference UI)
+* Neon blue/cyan glow effects
+* Glassmorphism cards
+* Smooth animations and transitions
+
+⚡ FUNCTIONALITY (VERY IMPORTANT):
+
+* All buttons must work correctly:
+
+  * "View Projects" → scroll to projects section
+  * "Download Resume" → download file
+  * "Contact / Connect" → scroll to contact section
+  * Project buttons → open GitHub/live links
+* Navigation (Hero, Projects, About, Contact) → smooth scrolling
+* Fix any non-working buttons
+
+💡 TECH STACK:
+
+* React (Vite)
+* Tailwind CSS
+* Framer Motion
+
+✨ ADVANCED FEATURES:
+
+* Typing animation in hero section (AI/ML Enthusiast)
+* Scroll reveal animations
+* Sticky navbar with active section highlight
+* Project filtering system
+* Dark mode toggle
+
+⚠️ FINAL REQUIREMENTS:
+
+* Match the provided UI design style
+* Ensure no empty sections
+* Make it professional and recruiter-ready
+* Optimize for performance and responsiveness
