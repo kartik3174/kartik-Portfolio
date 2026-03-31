@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "artifacts/portfolio/dist/public",
+  "framework": "vite"
+}
